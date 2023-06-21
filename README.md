@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **robin12898@hotmail.com**
 
-- ⚡ Fun fact **I am really good at breaking things**
+- ⚡ Fun fact **I am really good at breaking things, and enjoy the challege and excitement of figuring out how to make them work again**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
