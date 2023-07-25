@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Military Lodging App](https://military-lodging-map.netlify.app/)
 
-- 🌱 I’m currently learning **Salesforce Business Analysis, React, Salesforce Apex Superbadge**
+- 🌱 I’m currently learning **Salesforce Business Analysis, Express, AJAX, Salesforce Apex Superbadge**
 
 - 💬 Ask me about **how to figure out how to un-break things**
 
