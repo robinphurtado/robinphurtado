@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Salesforce Business Analysis, Express, AJAX, Salesforce Apex Superbadge**
 
-- 💬 Ask me about **how to figure out how to un-break things**
+- 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a>
 
 - 📫 How to reach me **robin12898@hotmail.com**
 
