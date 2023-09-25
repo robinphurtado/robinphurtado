@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Military Lodging App](https://military-lodging-map.netlify.app/)
 
-- 🌱 I’m currently learning **Salesforce Business Analysis, Express, AJAX, Salesforce Apex Superbadge**
+- 🌱 I’m currently learning **AWS, Salesforce Apex Superbadge**
 
 - 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a>
 
