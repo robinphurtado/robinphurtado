@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS, Salesforce Apex Superbadge**
 
-- 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a>
+- 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a> and  <a href=https://travelsiteproject.netlify.app/> my travel project on netlify </a>
 
 - 📫 How to reach me **robin12898@hotmail.com**
 
