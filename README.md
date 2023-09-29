@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinphurtado&label=Profile%20views&color=0e75b6&style=flat" alt="robinphurtado" /> </p>
 
-- 🔭 I’m currently working on [Military Lodging App](https://military-lodging-map.netlify.app/)
+- 🔭 I’m currently working on a [Military Lodging App](https://military-lodging-map.netlify.app/)
 
 - 🌱 I’m currently learning **AWS, Salesforce Apex Superbadge**
 
