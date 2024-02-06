@@ -8,7 +8,7 @@
 
 - 🌱 In school, I’m currently learning Data Science and Machine Learning.  
 <!--  **AWS, Salesforce Apex Superbadge** -->
-- 💬 Check out some of my internship projects on Netlify:
+- 💬 Check out some of my internship projects on Netlify:</br>
 -<a href = "https://first-react-login.netlify.app/">My First React App (A login page)</a> </br>
 -<a href = "https://travelsiteproject.netlify.app">Travel Advisor App</a> built following <a href= "https://www.youtube.com/@javascriptmastery">Javascript Mastery</a> Tutorial
 
