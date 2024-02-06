@@ -8,7 +8,9 @@
 
 - 🌱 In school, I’m currently learning Data Science and Machine Learning.  
 <!--  **AWS, Salesforce Apex Superbadge** -->
-- 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a> and  <a href=https://travelsiteproject.netlify.app/> my travel project on netlify </a>
+- 💬 Check out some of my internship projects on Netlify:
+-<a href = "https://first-react-login.netlify.app/">My First React App (A login page)</a>
+-<a href = "https://travelsiteproject.netlify.app">Travel Advisor App</a> built following <a href= "https://www.youtube.com/@javascriptmastery">Javascript Mastery</a> Tutorial
 
 - 📫 How to reach me <a href = "https://www.linkedin.com/in/robin-p-hurtado/">Linked In</a>
 
