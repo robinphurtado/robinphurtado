@@ -10,7 +10,7 @@
 <!--  **AWS, Salesforce Apex Superbadge** -->
 - 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a> and  <a href=https://travelsiteproject.netlify.app/> my travel project on netlify </a>
 
-- 📫 How to reach me **robin12898@hotmail.com**
+- 📫 How to reach me <a href = "https://www.linkedin.com/in/robin-p-hurtado/">Linked In</a>
 
 - ⚡ Fun fact **I love puzzles and solving mysteries.  I am really good at breaking things, and enjoy the challege and excitement of figuring out how to make them work again.**
 
