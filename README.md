@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinphurtado&label=Profile%20views&color=0e75b6&style=flat" alt="robinphurtado" /> </p>
 
-- 🔭 I’m currently working on a [Military Lodging App](https://military-lodging-map.netlify.app/)
+- 🔭 I’m currently working on my last two semsesters for my Bachelor's Degree at Cal State Monterey Bay, my Capstone Project refining and improving my [Military Lodging App](https://military-lodging-map.netlify.app/) , and the <a href = https://www.coursera.org/professional-certificates/meta-front-end-developer> Meta Front End Developer Professional Certificate </a> through Coursera.
 
-- 🌱 I’m currently learning **AWS, Salesforce Apex Superbadge**
-
+- 🌱 In school, I’m currently learning Data Science and Machine Learning.  
+<!--  **AWS, Salesforce Apex Superbadge** -->
 - 💬 Check out <a href=https://replit.com/@robinphurtado>**my projects on replit**</a> and  <a href=https://travelsiteproject.netlify.app/> my travel project on netlify </a>
 
 - 📫 How to reach me **robin12898@hotmail.com**
 
-- ⚡ Fun fact **I am really good at breaking things, and enjoy the challege and excitement of figuring out how to make them work again**
+- ⚡ Fun fact **I love puzzles and solving mysteries.  I am really good at breaking things, and enjoy the challege and excitement of figuring out how to make them work again.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
