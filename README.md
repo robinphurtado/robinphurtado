@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinphurtado&label=Profile%20views&color=0e75b6&style=flat" alt="robinphurtado" /> </p>
 
-- 🔭 I’m currently working on my last two semsesters for my Bachelor's Degree at Cal State Monterey Bay, my Capstone Project refining and improving my [Military Lodging App](https://military-lodging-map.netlify.app/) , and the <a href = https://www.coursera.org/professional-certificates/meta-front-end-developer> Meta Front End Developer Professional Certificate </a> through Coursera.
+- 🔭 I’m currently in my final semesters for my Bachelor's Degree at Cal State Monterey Bay, my Capstone Project refining and improving my [Military Lodging App](https://military-lodging-map.netlify.app/) , and the <a href = https://www.coursera.org/professional-certificates/meta-front-end-developer> Meta Front End Developer Professional Certificate </a> through Coursera.
 
 - 🌱 In school, I’m currently learning Data Science and Machine Learning.  
 <!--  **AWS, Salesforce Apex Superbadge** -->
