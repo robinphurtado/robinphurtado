@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Hurtado</h1>
-<h3 align="center">A Computer Science Student with a passion for Problem-Solving, Programming, and Development</h3>
+<h3 align="center">A Software Engineer with a passion for Problem-Solving, Programming, and Development</h3>
 <img align="right" alt="Hello World" width="400" src="https://media3.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif?cid=ecf05e471jal2xq1hc92kwuy29h6wo64bqfwwwhlxxfktxtd&ep=v1_gifs_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinphurtado&label=Profile%20views&color=0e75b6&style=flat" alt="robinphurtado" /> </p>
