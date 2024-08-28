@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinphurtado&label=Profile%20views&color=0e75b6&style=flat" alt="robinphurtado" /> </p>
 
-- 🔭 I graduated cum laude with a Bachelor's Degree at Cal State Monterey Bay with concentration on Software Engineering.  </br>
-Check out on my Capstone Project <a href = https://www.youtube.com/watch?v=XqqwUP00tVU> Biomedical Image Segmentation and Classification</a> on which I earned the <a href = https://www.coursera.org/learn/deep-neural-networks-with-pytorch> IBM Deep Neural Networks with PyTorch</a> Certificate through Coursera.
+- 🔭 I graduated cum laude with a Bachelor's Degree in Computer Science with concentration on Software Engineering from Cal State Monterey Bay.  </br>
+Check out on my Capstone Project <a href = https://www.youtube.com/watch?v=XqqwUP00tVU> Biomedical Image Segmentation and Classification</a> during which I earned the <a href = https://www.coursera.org/learn/deep-neural-networks-with-pytorch> IBM Deep Neural Networks with PyTorch</a> Certificate through Coursera.
 
 - 🌱 I’m currently working on a volunteer project and brushing up my Visual Basic on a Database Project for a scholarship foundation, as well as learning Typescript and working on the <a href = https://www.coursera.org/professional-certificates/meta-front-end-developer> Meta Front End Developer Professional Certificate </a> through Coursera.   
 <!--  **AWS, Salesforce Apex Superbadge** -->
